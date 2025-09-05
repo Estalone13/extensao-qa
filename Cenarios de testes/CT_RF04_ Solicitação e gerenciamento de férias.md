@@ -22,7 +22,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
-
+ 
+ https://jam.dev/c/63f9d201-dcef-4691-bf72-f07b7fee356e
 ---
 
 ### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
